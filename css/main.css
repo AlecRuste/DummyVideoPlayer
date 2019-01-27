@@ -1,0 +1,32 @@
+html {
+    margin: 0;
+    padding: 0;
+    display: contents;
+}
+
+img {
+    width: 30vw;
+}
+
+.movie-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.movie-list__item {
+    margin: 10px;
+}
+
+
+.movie-list__item-container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+}
+
+.movie-list__item-description {
+    color: black;
+}
+
+
